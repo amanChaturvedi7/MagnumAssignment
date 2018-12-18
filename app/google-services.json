@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "611661717317",
+    "firebase_url": "https://magnumassignment.firebaseio.com",
+    "project_id": "magnumassignment",
+    "storage_bucket": "magnumassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611661717317:android:fe10a76075d6f03b",
+        "android_client_info": {
+          "package_name": "com.example.asus.magnumassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611661717317-3kb4oqspd8p3hdopg3bua0uee0hg161m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.magnumassignment",
+            "certificate_hash": "4a3536ae2287cdb9af4746c1ff5ea2bb01070a6a"
+          }
+        },
+        {
+          "client_id": "611661717317-9lmo1u1fc0ng47kt0a7vl3tatqaf1lk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Y9F9kUdXZ3czzLh3qCvfpuhWEGpQWXY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611661717317-9lmo1u1fc0ng47kt0a7vl3tatqaf1lk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
